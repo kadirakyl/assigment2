@@ -144,7 +144,7 @@ select {
   display: flex;
   align-items: center;
   height: 300px;
-  width: 50rem;
+  width: 43rem;
 }
 
 .essential-text {
@@ -155,8 +155,9 @@ select {
 
 .lighting {
   background-color: #ffc868;
-  width: 400px;
+  width: 43rem;
   height: 300px;
+  align-items: center;
   border-radius: 5px;
   box-shadow: 5px 5px 10px black;
 }
@@ -172,6 +173,8 @@ select {
   float: right;
   padding: 2rem;
   margin-bottom: -10rem;
+  font-weight: 500;
+  font-size: x-large;
 }
 
 .categorySection {
