@@ -1,1 +1,1 @@
-https://kadirakyl.github.io/assigment2/
+https://kadirakyl.github.io/assignment2/
